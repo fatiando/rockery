@@ -6,3 +6,4 @@ age.3.2.nc.bz2 49003831db78f7bb044532daf31fdc49218f75876668ee0c96877f383214b827 
 age.3.6.nc.bz2 c99358e4a980be15f05df71506d9337dc760d32e5907f9526bc8135224fc1f81 https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age/age.3.6.nc.bz2
 ageerror.3.2.nc.bz2 fd599a02488912e6d3bc53fc1e658f3d116a893201c0c9fb5e496c4020279a35 https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age_error/ageerror.3.2.nc.bz2
 ageerror.3.6.nc.bz2 15a2542717d30f24feeb2ea9d5d73d754b30a3fc92bbf1b704b3ba23d2766d1b https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age_error/ageerror.3.6.nc.bz2
+mcmurray_facies_v1.tar.gz 170315f443096abac9d82d7c5c54b913c8eab183fa8ea112a21db33b4890d05d https://github.com/JustinGOSSES/McMurray-Wabiskaw-preprocessed-datasets/raw/c3cc78376f85d2339cae73dfb4923c62852e4f89/processed_datasets/mcmurray_facies_v1.tar.gz

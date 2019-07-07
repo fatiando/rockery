@@ -6,7 +6,7 @@ pytest-cov
 coverage
 pylint
 flake8
-sphinx=1.8.5
+sphinx==1.8.5
 sphinx_rtd_theme
 sphinx-gallery
 numpydoc

@@ -17,6 +17,7 @@ Data Fetching and Loading
     fetch_prem
     fetch_bedmap2
     fetch_seafloor_age
+    fetch_mcmurray_facies
 
 
 Utilities

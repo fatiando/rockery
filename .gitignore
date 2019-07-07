@@ -19,3 +19,5 @@ MANIFEST
 dask-worker-space
 .coverage.*
 .tmp-test-dir-with-unique-name/
+.DS_Store
+
