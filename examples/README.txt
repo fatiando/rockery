@@ -3,4 +3,4 @@
 Models and Datasets
 ===================
 
-These are the currently avaialbe models/datasets:
+These are the currently available models/datasets:

@@ -3,10 +3,21 @@
 from . import version
 from .registry import data_location
 from .etopo1 import fetch_etopo1
-from .prem import fetch_prem
+from .earth_models import (
+    fetch_prem,
+    fetch_ak135f,
+    fetch_iasp91,
+    fetch_mean,
+    fetch_pema,
+    fetch_pemc,
+    fetch_pemo,
+    fetch_mc35,
+    fetch_stw105,
+    fetch_tna_sna,
+)
+
 from .bedmap2 import fetch_bedmap2
 from .seafloor import fetch_seafloor_age
-
 
 # Get the version number through versioneer
 __version__ = version.full_version

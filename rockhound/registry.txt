@@ -1,8 +1,17 @@
 ETOPO1_Ice_g_gmt4.grd.gz c241db385d89f3d0c22eec8138224db9f2ebee6a1b4d1ecb4ebc6a5743a28ec8 https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/grid_registered/netcdf/ETOPO1_Ice_g_gmt4.grd.gz
 ETOPO1_Bed_g_gmt4.grd.gz e5dd1e07c9039a966096d658976145b34a7006613ba32c7e898d26dd1dd3e1d9 https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/grid_registered/netcdf/ETOPO1_Bed_g_gmt4.grd.gz
 PREM_1s.csv 71e5d8883e5ee0529c7d8f02c8e68d12c350e993bdbd106a3697c64fa3bf9faa https://ds.iris.edu/files/products/emc/data/PREM/PREM_1s.csv
+AK135F_AVG_IDV.csv 5094703afff207e52f667ff65cc9701d86820ebe22dc84f9bed290b66b41b2da https://ds.iris.edu/files/products/emc/data/AK135F/AK135F_AVG_IDV.csv
+IASP91.csv b7c5687c78f7a27977160f055d6e247bfdcbbf2a60194924f108931dff47052f https://ds.iris.edu/files/products/emc/data/IASP91/IASP91.csv
+MEAN.nc d44240a75936193532f9ba75b0d20d53902eb40c800752edbe048eea1bda7c59 https://ds.iris.edu/files/products/emc/data/MEAN/MEAN.nc
 bedmap2_tiff.zip f4bb27ce05197e9d29e4249d64a947b93aab264c3b4e6cbf49d6b339fb6c67fe https://secure.antarctica.ac.uk/data/bedmap2/bedmap2_tiff.zip
 age.3.2.nc.bz2 49003831db78f7bb044532daf31fdc49218f75876668ee0c96877f383214b827 https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age/age.3.2.nc.bz2
 age.3.6.nc.bz2 c99358e4a980be15f05df71506d9337dc760d32e5907f9526bc8135224fc1f81 https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age/age.3.6.nc.bz2
 ageerror.3.2.nc.bz2 fd599a02488912e6d3bc53fc1e658f3d116a893201c0c9fb5e496c4020279a35 https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age_error/ageerror.3.2.nc.bz2
 ageerror.3.6.nc.bz2 15a2542717d30f24feeb2ea9d5d73d754b30a3fc92bbf1b704b3ba23d2766d1b https://www.ngdc.noaa.gov/mgg/ocean_age/data/2008/grids/age_error/ageerror.3.6.nc.bz2
+PEMA.csv d5a035ba99f8fb33f078b91f5105f8271bec903a9927b25e412679606f92e030 https://ds.iris.edu/files/products/emc/data/PEMA/PEMA.csv
+PEMC.csv a504ede73811dd3dafd5eeff006d2e250c55dfd4e847fd0c4886d85ef459b7c8 https://ds.iris.edu/files/products/emc/data/PEMC/PEMC.csv
+PEMO.csv d0560ce0b248c1855cfb8467bd6f914e1785071fb9e9823b434875a2cee69bf0 https://ds.iris.edu/files/products/emc/data/PEMO/PEMO.csv
+MC35.csv 812f1e7e78b6a37349430ceefcf1bd850dd7bf4b00f1cf84fb271aa3de540cdb https://ds.iris.edu/files/products/emc/data/MC35/MC35.csv
+STW105.txt 6fd4470bfef52c98274458eefe83e848dee47a192e2a8a46ec7816d8ff06269c https://ds.iris.edu/files/products/emc/data/STW105/STW105.txt
+StartingVsModel_TNA-SNA-average_IDV.csv be95900fdd200ac5c00618963857c57912812e5696b13854123035e99d7ba9e6 https://ds.iris.edu/files/products/emc/data/GYPSUM/StartingVsModel_TNA-SNA-average_IDV.csv

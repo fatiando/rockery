@@ -11,7 +11,7 @@ Version 0.1.0
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3086002.svg
    :target: https://doi.org/10.5281/zenodo.3086002
 
-Fist release of Rockhound. Easily download geophysical models and datasets (PREM,
+First release of Rockhound. Easily download geophysical models and datasets (PREM,
 CRUST1.0, ETOPO1 and more) and load them into Python data structures (pandas, numpy,
 xarray).
 

@@ -8,12 +8,13 @@ model includes the depth, density, seismic velocities, attenuation (Q) and aniso
 parameter (:math:`\eta`) on the boundaries of several Earth layers.  The data is loaded
 into :class:`pandas.DataFrame` objects, which can be used to plot and make computations.
 """
+
 import rockhound as rh
 import matplotlib.pyplot as plt
 
+
 # Load PREM into a DataFrame
 prem = rh.fetch_prem()
-print(prem)
 
 # Plot density and velocities
 fig, axes = plt.subplots(1, 2, figsize=(9, 5), sharey=True)
