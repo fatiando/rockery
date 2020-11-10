@@ -1,3 +1,11 @@
+baja-bathymetry.csv.xz 64bc38514e771caa468b8230d94bf3a2abdac9e8b784273a0ca9ed6cb5165c32 https://github.com/fatiando/verde/raw/master/data/baja-bathymetry.csv.xz
+california-gps.csv.xz 54fa4aa490883c41362fae5cbf4925f2b1036361f4169ce5d2035828e22ff89a https://github.com/fatiando/verde/raw/master/data/california-gps.csv.xz
+texas-wind.csv 89213be635006e3838f906918427ec838142d44f5de3f5b2c5d82f9e11d93a24 https://github.com/fatiando/verde/raw/master/data/texas-wind.csv
+etopo1-0.5deg.nc.xz d975b2f90111043744f70eb1382ed4c654c79065cabe71d067ea8fde7010be2b https://github.com/fatiando/harmonica/raw/master/data/etopo1-0.5deg.nc.xz
+gravity-earth-0.5deg.nc.xz 02c62a251225e2e76722a80d87c488160fbdcae2c1a8bbc2386c32e68ea8f43a https://github.com/fatiando/harmonica/raw/master/data/gravity-earth-0.5deg.nc.xz
+geoid-earth-0.5deg.nc.xz 1fe25866609bde37813599e34d096db0df27f5e335a51c6db0c6613eb64dc62f https://github.com/fatiando/harmonica/raw/master/data/geoid-earth-0.5deg.nc.xz
+britain-magnetic.csv.xz 2e6e42095dc36022c66aa3a0322ded9f0e5a5f6eabe826d5c646c70394e8872d https://github.com/fatiando/harmonica/raw/master/data/britain-magnetic.csv.xz
+south-africa-gravity.ast.xz 86401cb8d2142bca340b984469f3f36dd0b40362ba028b6989ed39964ee50f6e https://github.com/fatiando/harmonica/raw/master/data/south-africa-gravity.ast.xz
 ETOPO1_Ice_g_gmt4.grd.gz c241db385d89f3d0c22eec8138224db9f2ebee6a1b4d1ecb4ebc6a5743a28ec8 https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/grid_registered/netcdf/ETOPO1_Ice_g_gmt4.grd.gz
 ETOPO1_Bed_g_gmt4.grd.gz e5dd1e07c9039a966096d658976145b34a7006613ba32c7e898d26dd1dd3e1d9 https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/grid_registered/netcdf/ETOPO1_Bed_g_gmt4.grd.gz
 PREM_1s.csv 71e5d8883e5ee0529c7d8f02c8e68d12c350e993bdbd106a3697c64fa3bf9faa https://ds.iris.edu/files/products/emc/data/PREM/PREM_1s.csv

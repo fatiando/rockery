@@ -7,6 +7,16 @@ from .prem import fetch_prem
 from .bedmap2 import fetch_bedmap2
 from .seafloor import fetch_seafloor_age
 from .slab2 import fetch_slab2
+from .britain_magnetic import fetch_britain_magnetic
+from .south_africa_gravity import fetch_south_africa_gravity
+from .sample_data import (
+    fetch_baja_bathymetry,
+    fetch_california_gps,
+    fetch_texas_wind,
+    fetch_geoid_earth,
+    fetch_gravity_earth,
+    fetch_topography_earth,
+)
 
 # Get the version number through versioneer
 __version__ = version.full_version

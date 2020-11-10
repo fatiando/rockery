@@ -1,3 +1,6 @@
+rasterio
+dask
+netcdf4
 matplotlib
 cmocean
 cartopy

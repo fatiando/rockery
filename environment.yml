@@ -8,10 +8,10 @@ dependencies:
     - pooch>=0.5
     - xarray
     - pandas
+    # Development requirements
     - rasterio
     - dask
     - netcdf4
-    # Development requirements
     - matplotlib
     - cmocean
     - cartopy
