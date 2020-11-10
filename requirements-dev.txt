@@ -1,6 +1,7 @@
 matplotlib
 cmocean
 cartopy
+scipy
 pytest
 pytest-cov
 coverage

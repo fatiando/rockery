@@ -1,27 +1,28 @@
 name: rockhound
 channels:
-    - conda-forge
-    - defaults
+  - conda-forge
+  - defaults
 dependencies:
-    - python=3.7
-    - pip
-    - pooch>=0.5
-    - xarray
-    - pandas
-    - rasterio
-    - dask
-    - netcdf4
-    # Development requirements
-    - matplotlib
-    - cmocean
-    - cartopy
-    - pytest
-    - pytest-cov
-    - coverage
-    - black
-    - pylint=2.4.*
-    - flake8
-    - sphinx=2.2.1
-    - sphinx_rtd_theme=0.4.3
-    - sphinx-gallery
-    - numpydoc
+  - python=3.7
+  - pip
+  - pooch>=0.5
+  - xarray
+  - pandas
+  - rasterio
+  - dask
+  - netcdf4
+  # Development requirements
+  - matplotlib
+  - cmocean
+  - cartopy
+  - scipy
+  - pytest
+  - pytest-cov
+  - coverage
+  - black
+  - pylint=2.4.*
+  - flake8
+  - sphinx=2.2.1
+  - sphinx_rtd_theme=0.4.3
+  - sphinx-gallery
+  - numpydoc

@@ -10,6 +10,7 @@ dist/
 .cache
 doc/_build
 doc/api/generated
+doc/gallery
 doc/tutorials
 doc/sample_data
 .ipynb_checkpoints

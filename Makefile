@@ -2,7 +2,7 @@
 PROJECT=rockhound
 TESTDIR=.tmp-test-dir-with-unique-name
 PYTEST_ARGS=--cov-config=../.coveragerc --cov-report=term-missing --cov=$(PROJECT) --doctest-modules -v --pyargs
-PYTEST_MINIMAL_ARGS=-v --pyargs -m minimal
+PYTEST_AVAILABILITY_ARGS=-v --pyargs -k test_available
 LINT_FILES=setup.py $(PROJECT)
 BLACK_FILES=setup.py $(PROJECT) examples doc/conf.py
 FLAKE8_FILES=setup.py $(PROJECT) examples doc/conf.py
@@ -27,14 +27,18 @@ test:
 	cd $(TESTDIR); MPLBACKEND='agg' pytest $(PYTEST_ARGS) $(PROJECT)
 	cp $(TESTDIR)/.coverage* .
 
-minimal_test:
-	pytest $(PYTEST_MINIMAL_ARGS)
+test_availability:
+	pytest $(PYTEST_AVAILABILITY_ARGS)
 
 format:
 	black $(BLACK_FILES)
 
-check:
+check: black-check flake8
+
+black-check:
 	black --check $(BLACK_FILES)
+
+flake8:
 	flake8 $(FLAKE8_FILES)
 
 lint:

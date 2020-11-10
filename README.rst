@@ -21,12 +21,9 @@ Part of the `Fatiando a Terra <https://www.fatiando.org>`__ project
 .. image:: https://img.shields.io/conda/vn/conda-forge/rockhound.svg?style=flat-square
     :alt: Latest version on conda-forge
     :target: https://github.com/conda-forge/rockhound-feedstock
-.. image:: https://img.shields.io/travis/fatiando/rockhound/master.svg?style=flat-square&label=TravisCI
-    :alt: TravisCI build status
-    :target: https://travis-ci.com/fatiando/rockhound
-.. image:: https://img.shields.io/azure-devops/build/fatiando/c64572de-afef-44c5-86a8-212dce3e0a5c/8/master.svg?label=Azure&style=flat-square
-    :alt: Azure Pipelines build status
-    :target: https://dev.azure.com/fatiando/rockhound/_build
+.. image:: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Ffatiando%2Frockhound%2Fbadge%3Fref%3Dmaster&style=flat-square
+    :alt: GitHub Actions status
+    :target: https://actions-badge.atrox.dev/fatiando/rockhound/goto?ref=master
 .. image:: https://img.shields.io/codecov/c/github/fatiando/rockhound/master.svg?style=flat-square
     :alt: Test coverage status
     :target: https://codecov.io/gh/fatiando/rockhound
