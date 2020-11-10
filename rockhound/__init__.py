@@ -7,6 +7,7 @@ from .prem import fetch_prem
 from .bedmap2 import fetch_bedmap2
 from .seafloor import fetch_seafloor_age
 from .slab2 import fetch_slab2
+from .gravd import fetch_gravd
 
 # Get the version number through versioneer
 __version__ = version.full_version
